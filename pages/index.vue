@@ -3,17 +3,18 @@
 
     <div class="intro">
       <div class="overlay">
-      <h1>Vand lemne de foc</h1>
+      <h1>Vând lemne de foc</h1>
      
     </div>
   </div>
 
   <div class="info">
     <div class="info1">
-    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-       Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-        when an unknown printer took a galley of type and scrambled it to make a type
-        specimen book. </p>
+    <p>"TIM LAUVA" este o companie care pune la dispoziția dumneavoastră lemne de foc.
+Comercializarea lemnelor de foc se face în toată țara (transportul fiind gratis doar în județul Arad)<br>
+Timp de livrare: 24h. <br>
+Pentru mai multe detalii sunați la numărul afișat: 0757 303 788</p>
+
       </div>  
     </div>
     
@@ -30,7 +31,7 @@ export default {
 }
 </script>
 
-<style>
+<style scoped>
 .intro {
       background:url('../images/rise-1789903_1920.jpg') left bottom no-repeat fixed;
       height:800px;width:100%;
@@ -69,8 +70,8 @@ export default {
       justify-content: center;
       padding-top: 60px;
       padding-bottom: 60px;
-           
-      
+      text-align: center;
+         
     }
 
     .info1 {

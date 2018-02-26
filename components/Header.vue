@@ -5,7 +5,7 @@
                            
                 <li><nuxt-link to="/Contact">Contact</nuxt-link></li>
                 <li><nuxt-link to="/Galerie">Galerie</nuxt-link></li>
-                <li><nuxt-link to="/">Acasa</nuxt-link></li>
+                <li><nuxt-link to="/">Acasă</nuxt-link></li>
             </ul>
         </nav>
     </header>

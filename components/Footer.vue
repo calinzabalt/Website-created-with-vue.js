@@ -1,9 +1,9 @@
 <template>
 <footer>
     <div class="ft">
-        <h3 class="left">Arad Strada Paduri nr.28</h3>
+        <h3 class="left">Arad Strada Păduri nr.28</h3>
         <p class="center">© 2018 ALL RIGHTS RESERVED</p>
-        <h4 class="right"> Numar de telefon: 0757 303 788 </h4>
+        <h4 class="right"> Număr de telefon: 0757 303 788 </h4>
     </div>   
        
 </footer>
@@ -27,6 +27,7 @@ footer {
     flex-direction: row;
     text-align: center;
     padding-top: 45px;
+    color: white;
 }   
 
 .center{
